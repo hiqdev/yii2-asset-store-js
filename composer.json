@@ -44,7 +44,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "bower-asset/store": "*"
+        "bower-asset/store-js": "*"
     },
     "autoload": {
         "psr-4": {
