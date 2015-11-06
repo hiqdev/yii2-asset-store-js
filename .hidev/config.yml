@@ -5,7 +5,6 @@ package:
     keywords:       yii2, asset, store-js
     description:    Yii2 extension is a wrapper for [store.js](https://github.com/marcuswestin/store.js) plugin
 
-
 require:
     hiqdev/hidev-config:        "*"
     hiqdev/hidev-config-php:    "*"
