@@ -1,11 +1,11 @@
 Yii2 asset for store.js
 =======================
 
-Yii2 extension is a wrapper for [store.js](https://github.com/marcuswestin/store.js) plugin
-
 [![Latest Stable Version](https://poser.pugx.org/hiqdev/yii2-asset-store-js/v/stable)](//packagist.org/packages/hiqdev/yii2-asset-store-js)
 [![Total Downloads](https://poser.pugx.org/hiqdev/yii2-asset-store-js/downloads)](//packagist.org/packages/hiqdev/yii2-asset-store-js)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:yii2-asset-store-js/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:yii2-asset-store-js/dev-master)
+
+Yii2 extension is a wrapper for [store.js](https://github.com/marcuswestin/store.js) plugin
 
 ## Installation
 
