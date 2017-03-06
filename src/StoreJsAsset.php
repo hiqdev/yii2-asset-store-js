@@ -19,12 +19,12 @@ class StoreJsAsset extends \yii\web\AssetBundle
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@bower/store-js';
+    public $sourcePath = '@bower/store-js/dist';
 
     /**
      * {@inheritdoc}
      */
     public $js = [
-        'store.min.js',
+        'store.legacy.min.js',
     ];
 }
