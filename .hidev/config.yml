@@ -1,10 +1,7 @@
 package:
-    title:          Yii2 asset for store.js
-    name:           yii2-asset-store-js
     type:           yii2-extension
+    name:           yii2-asset-store-js
+    title:          Yii2 asset for store.js
+    namespace:      hiqdev\yii2\assets\StoreJs
     keywords:       yii2, asset, store-js
     description:    Yii2 extension is a wrapper for [store.js](https://github.com/marcuswestin/store.js) plugin
-
-require:
-    hiqdev/hidev-config:        "*"
-    hiqdev/hidev-config-php:    "*"

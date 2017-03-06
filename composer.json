@@ -18,45 +18,47 @@
     },
     "authors": [
         {
-            "nick": "hiqsol",
             "name": "Andrii Vasyliev",
             "role": "Project lead",
             "email": "sol@hiqdev.com",
-            "github": "https://github.com/hiqsol",
             "homepage": "http://hipanel.com/"
         },
         {
-            "nick": "SilverFire",
             "name": "Dmitry Naumenko",
             "role": "Lead backend developer",
             "email": "silverfire@hiqdev.com",
-            "github": "https://github.com/SilverFire",
             "homepage": "http://silverfire.me/"
         },
         {
-            "nick": "tafid",
             "name": "Andrey Klochok",
             "role": "Lead frontend developer",
             "email": "tafid@hiqdev.com",
-            "github": "https://github.com/tafid",
             "homepage": "http://hiqdev.com/"
         },
         {
-            "nick": "BladeRoot",
             "name": "Yuriy Myronchuk",
             "role": "QA Lead",
             "email": "bladeroot@hiqdev.com",
-            "github": "https://github.com/BladeRoot",
             "homepage": "http://hiqdev.com/"
         }
     ],
     "require": {
         "yiisoft/yii2": "~2.0",
-        "bower-asset/store-js": "*"
+        "bower-asset/store-js": "^1.3"
+    },
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0",
+        "hiqdev/hidev-vendor": "<2.0"
     },
     "autoload": {
         "psr-4": {
             "hiqdev\\yii2\\assets\\StoreJs\\": "src"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }

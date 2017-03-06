@@ -3,7 +3,9 @@ hiqdev/yii2-asset-store-js
 
 ## [0.1.0] - 2015-11-08
 
-- Inited ([@SilverFire])
+- Inited
+    - [8f6a063] 2015-11-06 Changed composer.json5C dependecy from store to store-js [@SilverFire]
+    - [b4a68d9] 2015-11-06 inited [@SilverFire]
 
 ## [Development started] - 2015-11-06
 
@@ -15,5 +17,7 @@ hiqdev/yii2-asset-store-js
 [tafid@hiqdev.com]: https://github.com/tafid
 [@BladeRoot]: https://github.com/BladeRoot
 [bladeroot@hiqdev.com]: https://github.com/BladeRoot
+[8f6a063]: https://github.com/hiqdev/yii2-asset-store-js/commit/8f6a063
+[b4a68d9]: https://github.com/hiqdev/yii2-asset-store-js/commit/b4a68d9
 [Under development]: https://github.com/hiqdev/yii2-asset-store-js/compare/0.1.0...HEAD
 [0.1.0]: https://github.com/hiqdev/yii2-asset-store-js/releases/tag/0.1.0
