@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-store-js
 ------------------------------------------
 
+## [2.0.0] - 2017-03-06
+
+- Updated asset to follow original plugin major update ([@SilverFire])
+
 ## [0.1.0] - 2017-03-06
 
 - Inited ([@SilverFire])
@@ -17,3 +21,4 @@ hiqdev/yii2-asset-store-js
 [bladeroot@hiqdev.com]: https://github.com/BladeRoot
 [Under development]: https://github.com/hiqdev/yii2-asset-store-js/compare/0.1.0...HEAD
 [0.1.0]: https://github.com/hiqdev/yii2-asset-store-js/releases/tag/0.1.0
+[2.0.0]: https://github.com/hiqdev/yii2-asset-store-js/compare/0.1.0...2.0.0

@@ -1,6 +1,11 @@
 hiqdev/yii2-asset-store-js
 ------------------------------------------
 
+## [2.0.0] - 2017-03-06
+
+- Updated asset to follow original plugin major update
+    - [2aa5cf0] 2017-03-06 Updated asset to version 2.0 [@SilverFire]
+
 ## [0.1.0] - 2017-03-06
 
     - [f97ec37] 2017-03-06 Hideved [@SilverFire]
@@ -23,3 +28,5 @@ hiqdev/yii2-asset-store-js
 [Under development]: https://github.com/hiqdev/yii2-asset-store-js/compare/0.1.0...HEAD
 [0.1.0]: https://github.com/hiqdev/yii2-asset-store-js/releases/tag/0.1.0
 [f97ec37]: https://github.com/hiqdev/yii2-asset-store-js/commit/f97ec37
+[2aa5cf0]: https://github.com/hiqdev/yii2-asset-store-js/commit/2aa5cf0
+[2.0.0]: https://github.com/hiqdev/yii2-asset-store-js/compare/0.1.0...2.0.0
